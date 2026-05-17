@@ -1,4 +1,4 @@
-# 
+# vip JetBrains PyCharm for PC plugins is the best JetBrains PyCharm for PC plugins with emmet-support and snippets. Safe, reliable, and optimized for maximum performance.
 
 
 
